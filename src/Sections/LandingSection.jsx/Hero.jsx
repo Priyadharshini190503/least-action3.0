@@ -59,9 +59,9 @@ const Hero = () => {
           {slide.description}
         </p>
 
-        <button className="bg-white text-black px-6 py-3 rounded-full flex items-center gap-6 text-lg font-medium hover:bg-gray-200 transition">
-          Get Started
-          <span className="w-9 h-9 flex items-center justify-center bg-black text-white rounded-full">
+        <button className="bg-white text-black px-1 rounded-full flex items-center gap-6 text-lg font-medium hover:bg-gray-200 transition">
+          <h1 className="px-3 py-3">Get Started</h1>
+          <span className="w-9 h-9 flex items-center justify-center bg-black text-white rounded-full text-2xl">
             &gt;
           </span>
         </button>

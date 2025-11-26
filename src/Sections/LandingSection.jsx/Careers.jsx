@@ -20,20 +20,20 @@ const Careers = () => {
         </div>
 
         {/* RIGHT — Text */}
-        <div className="text-center lg:text-left lg:w-1/2">
-          <h1 className="text-5xl md:text-6xl font-bold text-[#1B1B1B] mb-6">
+        <div className="text-center lg:w-1/2">
+          <h1 className="text-5xl md:text-6xl xl:text-8xl font-bold text-[#1B1B1B] mb-6">
             Careers
           </h1>
 
-          <p className="text-lg md:text-xl text-[#3D3D3D] leading-relaxed mb-10">
+          <p className="text-lg md:text-xl leading-relaxed mb-10">
             Every Infoscion is the navigator of our clients<br />
             digital transformation
           </p>
 
           {/* Apply Button */}
-          <button className="flex items-center justify-center gap-4 bg-black text-white px-10 py-4 rounded-full text-xl font-medium hover:bg-gray-800 transition mx-auto lg:mx-0">
-            Apply Now
-            <span className="w-8 h-8 flex items-center justify-center border-2 bg-white text-black rounded-full">
+          <button className="flex items-center justify-center gap-4 bg-black text-white  px-1 rounded-full text-xl font-medium hover:bg-gray-800 transition mx-auto ">
+            <h1 className="px-20 py-4 justify">Apply Now</h1>
+            <span className="w-12 h-12 flex items-center justify-center border-2 bg-white text-black rounded-full text-2xl">
               &gt;
             </span>
           </button>
