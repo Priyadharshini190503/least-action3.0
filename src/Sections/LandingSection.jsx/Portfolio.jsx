@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import mobileApp from "../../assets/portfolio/android1.jpg";
-import shopping from "../../assets/portfolio/static1.jpg";
+import mobileApp from "../../assets/mobile.png";
+import shopping from "../../assets/shop.png";
 import tourism from "../../assets/portfolio/tourism.jpg";
 import aiagent from "../../assets/portfolio/aiagent.webp";
 import medical from "../../assets/portfolio/medical.jpg";
