@@ -87,8 +87,6 @@ const Specialized = () => {
     </div>
   );
 })}
-
-
       </div>
     </div>
   );
